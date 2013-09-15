@@ -2,6 +2,5 @@ lxml
 scraperwiki_local
 cssselect
 html2text
-ipython
 requests
 BeautifulSoup
