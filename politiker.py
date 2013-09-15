@@ -14,7 +14,6 @@ import re
 import itertools
 import lxml.etree as etree
 
-import twitter
 from lxml.html.soupparser import fromstring
 
 
